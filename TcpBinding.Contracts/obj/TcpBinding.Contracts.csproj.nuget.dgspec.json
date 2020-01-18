@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorge\\OneDrive\\jorgeprg\\javascript\\examples\\WebServiceExample\\CompanyService\\CompanyService.csproj": {}
+    "C:\\Users\\jorge\\OneDrive\\jorgeprg\\javascript\\examples\\WebServiceExample\\TcpBinding.Contracts\\TcpBinding.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorge\\OneDrive\\jorgeprg\\javascript\\examples\\WebServiceExample\\CompanyService\\CompanyService.csproj": {
+    "C:\\Users\\jorge\\OneDrive\\jorgeprg\\javascript\\examples\\WebServiceExample\\TcpBinding.Contracts\\TcpBinding.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\OneDrive\\jorgeprg\\javascript\\examples\\WebServiceExample\\CompanyService\\CompanyService.csproj",
-        "projectName": "CompanyService",
-        "projectPath": "C:\\Users\\jorge\\OneDrive\\jorgeprg\\javascript\\examples\\WebServiceExample\\CompanyService\\CompanyService.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\OneDrive\\jorgeprg\\javascript\\examples\\WebServiceExample\\TcpBinding.Contracts\\TcpBinding.Contracts.csproj",
+        "projectName": "TcpBinding.Contracts",
+        "projectPath": "C:\\Users\\jorge\\OneDrive\\jorgeprg\\javascript\\examples\\WebServiceExample\\TcpBinding.Contracts\\TcpBinding.Contracts.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge\\OneDrive\\jorgeprg\\javascript\\examples\\WebServiceExample\\CompanyService\\obj\\",
+        "outputPath": "C:\\Users\\jorge\\OneDrive\\jorgeprg\\javascript\\examples\\WebServiceExample\\TcpBinding.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,6 +47,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.7.0, )"
             }
           },
           "imports": [

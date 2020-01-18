@@ -1,0 +1,12 @@
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\bin\Debug\TcpBinding.Server.exe.config
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\bin\Debug\TcpBinding.Server.exe
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\bin\Debug\TcpBinding.Server.pdb
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\bin\Debug\TcpBinding.Contracts.dll
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\bin\Debug\TcpBinding.Contracts.pdb
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\bin\Debug\TcpBinding.Contracts.dll.config
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\obj\Debug\TcpBinding.Server.csprojAssemblyReference.cache
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\obj\Debug\TcpBinding.Server.csproj.CopyComplete
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\obj\Debug\TcpBinding.Server.exe
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\obj\Debug\TcpBinding.Server.pdb
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\bin\Debug\System.ServiceModel.Primitives.pdb
