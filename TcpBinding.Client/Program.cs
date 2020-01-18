@@ -17,6 +17,7 @@ namespace TcpBinding.Client {
             var endPoint = new EndpointAddress(uri);
             var proxy = channel.CreateChannel(endPoint);
             proxy?.GetStrings().ToList().ForEach(p => Console.WriteLine(p));
+            Console.ReadLine();
         }
     }
 }
