@@ -14,6 +14,10 @@ namespace TcpBinding.Server {
             IProductService productService = new ProductService();
             ServiceHost host = new ServiceHost(productService, uris);
             var binding = new NetTcpBinding(SecurityMode.None);
+            binding.SendTimeout = new TimeSpan(0, 10, 0);
+            binding.ReceiveTimeout = new TimeSpan(0, 10, 0);
+            binding.CloseTimeout = new TimeSpan(0, 10, 0);
+            binding.OpenTimeout = new TimeSpan(0, 10, 0);
             host.AddServiceEndpoint(typeof(IProductService), binding, "");
             host.Opened += HostOnOpened;
             host.Open();

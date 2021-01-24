@@ -10,3 +10,4 @@ C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBindin
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\obj\Debug\TcpBinding.Server.pdb
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\bin\Debug\System.ServiceModel.Primitives.dll
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Server\obj\Debug\TcpBinding.Server.csproj.CoreCompileInputs.cache

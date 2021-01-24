@@ -1,9 +1,10 @@
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\bin\Debug\netstandard2.0\TcpBinding.Contracts.deps.json
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\bin\Debug\netstandard2.0\TcpBinding.Contracts.dll
-C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.csprojAssemblyReference.cache
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.AssemblyInfoInputs.cache
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.AssemblyInfo.cs
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\bin\Debug\netstandard2.0\TcpBinding.Contracts.dll.config
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\bin\Debug\netstandard2.0\TcpBinding.Contracts.pdb
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.dll
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.pdb
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.csprojAssemblyReference.cache

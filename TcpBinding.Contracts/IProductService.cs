@@ -8,5 +8,7 @@ namespace TcpBinding.Contracts {
     public interface IProductService {
         [OperationContract]
         string[] GetStrings();
+        [OperationContract]
+        string[] GetStringsTakesLong();
     }
 }
