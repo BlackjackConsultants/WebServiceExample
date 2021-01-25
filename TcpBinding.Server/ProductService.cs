@@ -17,5 +17,9 @@ namespace TcpBinding.Server {
             Thread.Sleep(300000);
             return new[] { "server1", "server2", "server3" };
         }
+
+        public string[] FailRequest() {
+            throw new FaultException("fail!!!!");
+        }
     }
 }

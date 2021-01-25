@@ -7,4 +7,3 @@ C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBindin
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.dll
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.pdb
 C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.csproj.CoreCompileInputs.cache
-C:\Users\jorge\OneDrive\jorgeprg\javascript\examples\WebServiceExample\TcpBinding.Contracts\obj\Debug\netstandard2.0\TcpBinding.Contracts.csprojAssemblyReference.cache
