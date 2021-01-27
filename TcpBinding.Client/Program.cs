@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.ServiceModel;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using TcpBinding.Contracts;
 
@@ -14,10 +15,10 @@ namespace TcpBinding.Client {
                 Console.WriteLine("press any key to enter.");
                 string uri = "net.tcp://localhost:4345/ProductService";
                 NetTcpBinding binding = new NetTcpBinding(SecurityMode.None);
-                binding.SendTimeout = new TimeSpan(0, 10, 0);
-                binding.ReceiveTimeout = new TimeSpan(0, 10, 0);
-                binding.CloseTimeout = new TimeSpan(0, 10, 0);
-                binding.OpenTimeout = new TimeSpan(0, 10, 0);
+                binding.SendTimeout = new TimeSpan(0, 5, 0);
+                binding.ReceiveTimeout = new TimeSpan(0, 5, 0);
+                binding.CloseTimeout = new TimeSpan(0, 5, 0);
+                binding.OpenTimeout = new TimeSpan(0, 5, 0);
 
                 var channel = new ChannelFactory<IProductService>(binding);
                 var endPoint = new EndpointAddress(uri);
@@ -44,6 +45,17 @@ namespace TcpBinding.Client {
                                 System.Diagnostics.Debug.WriteLine(exc1.Message);
                                 Console.WriteLine(exc.Message);
                             }
+                        }
+                        break;
+                    case "4":
+                        try {
+                            // do a request, wait 10 and then request again.
+                            proxy?.GetStrings().ToList().ForEach(p => Console.WriteLine(p));
+                            Thread.Sleep(300000);
+                            proxy?.GetStrings().ToList().ForEach(p => Console.WriteLine(p));
+                        }
+                        catch (Exception exc) {
+                            System.Diagnostics.Debug.WriteLine(exc.Message);
                         }
                         break;
                     default:
