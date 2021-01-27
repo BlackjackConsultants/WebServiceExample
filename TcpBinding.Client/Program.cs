@@ -16,9 +16,9 @@ namespace TcpBinding.Client {
                 string uri = "net.tcp://localhost:4345/ProductService";
                 NetTcpBinding binding = new NetTcpBinding(SecurityMode.None);
                 binding.SendTimeout = new TimeSpan(0, 5, 0);
-                binding.ReceiveTimeout = new TimeSpan(0, 5, 0);
-                binding.CloseTimeout = new TimeSpan(0, 5, 0);
-                binding.OpenTimeout = new TimeSpan(0, 5, 0);
+                ////binding.ReceiveTimeout = new TimeSpan(0, 5, 0);
+                ////binding.CloseTimeout = new TimeSpan(0, 5, 0);
+                ////binding.OpenTimeout = new TimeSpan(0, 5, 0);
 
                 var channel = new ChannelFactory<IProductService>(binding);
                 var endPoint = new EndpointAddress(uri);
